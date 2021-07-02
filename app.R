@@ -13,7 +13,7 @@ source("global.R")
 #source("modules/hex-module.R")
 #source("modules/time-module.R")
 #source("modules/welcome-module.R")
-#source("functions/utils.R")
+source("functions/utils.R")
 
 ui <- fluidPage(
   
