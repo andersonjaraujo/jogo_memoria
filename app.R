@@ -1,19 +1,5 @@
-
-#  ------------------------------------------------------------------------
-#
-# Title : Memory Hex - UI
-#    By : dreamRs
-#  Date : 2019-02-06
-#    
-#  ------------------------------------------------------------------------
-
 library("shiny")
 source("global.R")
-#source("resize_imgs.R")
-#source("modules/hex-module.R")
-#source("modules/time-module.R")
-#source("modules/welcome-module.R")
-#source("functions/utils.R")
 
 ui <- fluidPage(
   
